@@ -1,0 +1,10 @@
+{
+  "name": "ampremium-kaaoffc",
+  "version": "1.0.0",
+  "description": "Am Premium Web — by KaaOffc",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
